@@ -2,7 +2,7 @@
 
 ## 0x00
 
-首先直接安装Typora的Windows 64位安装包，下载地址[https://typora.io/windows/typora-setup-x64.exe](https://typora.io/windows/typora-setup-x64.exe)，然后将本目录下面的winmm.dll的文件夹放到Typora的安装目录中
+首先直接安装Typora的Windows 64位安装包，下载地址 [https://typora.io/windows/typora-setup-x64.exe](https://typora.io/windows/typora-setup-x64.exe) ，然后将本目录下面的winmm.dll的文件夹放到Typora的安装目录中
 
 *注：这里放入文件的时候一定要关闭Typora软件
 
